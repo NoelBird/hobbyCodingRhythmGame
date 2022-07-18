@@ -5,8 +5,8 @@ Simple 2D Rhythm Game
 
 only left, right arrow in keyboard
 
-[v] MISS / GOOD / PERFECT 판정 구현
-[v] 키보드 조작시 파란색 퍼지는 이펙트 추가
-[v] 결과창 구현
-[ ] 키보드 조작에 따른 캐릭터 모션 변경
-[ ] 랭킹 구현
+- [x] MISS / GOOD / PERFECT 판정 구현
+- [x] 키보드 조작시 파란색 퍼지는 이펙트 추가
+- [x] 결과창 구현
+- [ ] 키보드 조작에 따른 캐릭터 모션 변경
+- [ ] 랭킹 구현
